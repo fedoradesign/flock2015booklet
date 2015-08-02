@@ -1,0 +1,25 @@
+#!/bin/bash
+
+mkdir pdf;
+pushd pages/;
+counter=0;
+pagelist=""
+for i in $(cat ../pageorder);
+do 
+	((counter++));
+	echo $counter;
+	cp $i.svg $i.tmp.svg; 
+	rpl "mypagenumber" "$counter" $i.tmp.svg;
+	inkscape --export-pdf=../pdf/$i.pdf $i.tmp.svg;
+	pagelist=$pagelist" "$i.pdf;	
+	rm -rf $i.tmp.svg;
+done;
+echo $pagelist; 
+popd; 
+pushd pdf/; 
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=flock-booklet-individual-pages.pdf $pagelist; 
+mv flock-booklet-individual-pages.pdf ../; 
+popd;
+rm -rf pdf/;
+podofoimpose flock-booklet-individual-pages.pdf flock-booklet-merged-pages.pdf plan.plan
+
