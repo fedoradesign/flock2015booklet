@@ -1,0 +1,2609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.625in"
+   height="11.25in"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r13964"
+   sodipodi:docname="sched5.svg"
+   viewBox="0 0 828 1080">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect25895-3-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect25882-0-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect25882-3-5-0"
+       effect="spiro" />
+    <clipPath
+       id="clipPath13629"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path13631"
+         d="M 0,0 621,0 621,810 0,810 0,0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath13743"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path13745"
+         d="m 0,0 371.25,0 0,573.75 L 0,573.75 0,0 Z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="319.42033"
+     inkscape:cy="279.80144"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     width="5.5in"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1311"
+     inkscape:window-x="0"
+     inkscape:window-y="55"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <sodipodi:guide
+       position="6,1068"
+       orientation="1056.0001,0"
+       id="guide4176" />
+    <sodipodi:guide
+       position="6,11.999939"
+       orientation="0,816"
+       id="guide4178" />
+    <sodipodi:guide
+       position="822,11.999939"
+       orientation="-1056.0001,0"
+       id="guide4180" />
+    <sodipodi:guide
+       position="822,1068"
+       orientation="0,-816"
+       id="guide4182" />
+    <sodipodi:guide
+       position="30,1044"
+       orientation="1008,0"
+       id="guide4184" />
+    <sodipodi:guide
+       position="30,36"
+       orientation="0,768"
+       id="guide4186" />
+    <sodipodi:guide
+       position="798,36"
+       orientation="-1008,0"
+       id="guide4188" />
+    <sodipodi:guide
+       position="798,1044"
+       orientation="0,-768"
+       id="guide4190" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,27.638)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text5096"
+       y="660.9541"
+       x="235.64728"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2948246px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;opacity:0.70400002;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.2948246px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         y="660.9541"
+         x="235.64728"
+         id="tspan5098"
+         sodipodi:role="line" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5296"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion5298"><rect
+           id="rect5300"
+           width="405"
+           height="675"
+           x="45"
+           y="45" /></flowRegion><flowPara
+         id="flowPara5302" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.09597588px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#294172;fill-opacity:1;stroke:none;stroke-width:0.62739938"
+       x="47.673981"
+       y="48.933891"
+       id="text5370"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5372"
+         x="47.673981"
+         y="48.933891"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#294172;stroke-width:0.62739938">Thursday Schedule</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7578"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.37475586px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="translate(0,-106.99928)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.37475586px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRegion7580"><rect
+           id="rect7582"
+           width="459.06433"
+           height="646.51685"
+           x="53.212379"
+           y="168.8472"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.37475586px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara7584"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.37475586px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Thursday Talks - Session Three - 1:30 p.m.</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.07075119px;line-height:135.00000238%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="flowRoot4613"
+       xml:space="preserve"
+       transform="translate(0,-117.1008)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRegion4615"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:135.00000238%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:justify;text-anchor:start;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           y="435.10287"
+           x="51.800705"
+           height="876.13269"
+           width="496.84042"
+           id="rect4617" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.33333397px;line-height:135.00000238%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:justify;text-anchor:start;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowPara4619">Thrusday Talks - Session Four - 2:30 p.m.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7723"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.07075119px;line-height:135.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"><flowRegion
+         style="stroke-width:1"
+         id="flowRegion7725"><rect
+           id="rect7727"
+           width="496.84042"
+           height="876.13269"
+           x="-683.63251"
+           y="-431.22137"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:justify;text-anchor:start;stroke-width:1" /></flowRegion><flowPara
+         id="flowPara7729"
+         style="font-weight:bold;font-size:16.8680706px;line-height:135.00000238%;text-align:justify;text-anchor:start;stroke-width:1">Thursday Talks - Session Three - 1:30 p.m.</flowPara></flowRoot>    <g
+       style="stroke-width:0.81514955"
+       id="g7731"
+       transform="matrix(1.2267665,0,0,1.226771,0.97751966,-499.44346)">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect7733"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g7735">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect7737"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text7739"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan7741"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Main Room</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path7743"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.5)"
+         id="g7745">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect7747"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="79.20192"
+           y="524.14423"
+           id="text7749"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="79.20192"
+             y="524.14423"
+             id="tspan7751"
+             style="font-weight:normal;stroke-width:0.81514955">kernel</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text7753"
+         y="496.74231"
+         x="142.09848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           style="font-weight:normal;stroke-width:0.81514955"
+           y="496.74231"
+           x="142.09848"
+           sodipodi:role="line"
+           id="tspan7755">Fedora Kernel</tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           y="506.75034"
+           x="142.09848"
+           sodipodi:role="line"
+           id="tspan7757">with Josh Boyer</tspan><tspan
+           style="font-weight:bold;stroke-width:0.81514955"
+           id="tspan7761"
+           y="516.75836"
+           x="142.09848"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       id="g7763"
+       transform="matrix(1.2267665,0,0,1.226771,247.45474,-499.44346)">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect7765"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g7767">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect7769"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text7771"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan7773"
+             style="font-weight:normal;stroke-width:0.81514955">Room 1</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path7775"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         id="g7777"
+         transform="translate(127.5)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect7779"
+           width="48.329407"
+           height="14.285714"
+           x="58.099167"
+           y="514.50488"
+           rx="4.2977524"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text7781"
+           y="524.14423"
+           x="82.484917"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan7783"
+             y="524.14423"
+             x="82.484917"
+             sodipodi:role="line">SIG</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text7785"
+         y="496.74231"
+         x="140.75655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           style="font-weight:normal;stroke-width:0.81514955"
+           y="496.74231"
+           x="140.75655"
+           sodipodi:role="line"
+           id="tspan7787">Fedora-join</tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           y="506.75034"
+           x="140.75655"
+           sodipodi:role="line"
+           id="tspan7789">with Gabriele Trombini</tspan></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       id="g7791"
+       transform="matrix(1.2267665,0,0,1.226771,493.93196,-498.96985)">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect7793"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g7795">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect7797"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text7799"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan7801"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Room 2</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path7803"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.5)"
+         id="g7805">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect7807"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="79.20192"
+           y="524.14423"
+           id="text7809"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="79.20192"
+             y="524.14423"
+             id="tspan7811"
+             style="font-weight:normal;stroke-width:0.81514955">hardware</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text7813"
+         y="496.74231"
+         x="143.28194"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           style="font-weight:normal;stroke-width:0.81514955"
+           y="496.74231"
+           x="143.28194"
+           sodipodi:role="line"
+           id="tspan7815">Fedora ARM and the POWER state of the union</tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           id="tspan7817"
+           y="506.75034"
+           x="143.28194"
+           sodipodi:role="line">with Peter Robinson</tspan></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       id="g7819"
+       transform="matrix(1.2267665,0,0,1.226771,248.46489,-426.87833)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect7821"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g7823">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect7825"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text7827"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan7829"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Room 4</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path7831"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.5)"
+         id="g7833">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect7835"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="79.20192"
+           y="524.14423"
+           id="text7837"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="79.20192"
+             y="524.14423"
+             id="tspan7839"
+             style="font-weight:normal;stroke-width:0.81514955">other</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text7841"
+         y="496.74231"
+         x="139.24133"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           id="tspan8481"
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955"
+           y="496.74231"
+           x="139.24133"
+           sodipodi:role="line">Remote Ninjutsu</tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           y="506.75034"
+           x="139.24133"
+           sodipodi:role="line"
+           id="tspan7848">with Paul Frields</tspan><tspan
+           style="font-weight:bold;stroke-width:0.81514955"
+           id="tspan7850"
+           y="516.75836"
+           x="139.24133"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       id="g7852"
+       transform="matrix(1.2267665,0,0,1.226771,-0.03263287,-354.31317)">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect7854"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g7856">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect7858"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text7860"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan7862"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Room 6</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path7864"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.5)"
+         id="g7866">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect7868"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="79.20192"
+           y="524.14423"
+           id="text7870"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="79.20192"
+             y="524.14423"
+             id="tspan7872"
+             style="font-weight:normal;stroke-width:0.81514955">desktop</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text7874"
+         y="496.74231"
+         x="139.24133"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955"
+           id="tspan7876"
+           y="496.74231"
+           x="139.24133"
+           sodipodi:role="line">desktopd: the systemd desktop environment</tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           y="506.75034"
+           x="139.24133"
+           sodipodi:role="line"
+           id="tspan7878"> with Ann Evitable</tspan><tspan
+           style="font-weight:bold;stroke-width:0.81514955"
+           id="tspan7880"
+           y="516.75836"
+           x="139.24133"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       id="g7882"
+       transform="matrix(1.2267665,0,0,1.226771,0.59915089,-426.87833)">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect7884"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g7886">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect7888"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text7890"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan7892"
+             style="font-weight:normal;stroke-width:0.81514955">Room 3</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path7894"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text7896"
+         y="496.74231"
+         x="140.75655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955"
+           y="496.74231"
+           x="140.75655"
+           sodipodi:role="line"
+           id="tspan7898">Fedora Cloud</tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           y="506.75034"
+           x="140.75655"
+           sodipodi:role="line"
+           id="tspan7900"> with Kushal Das</tspan></text>
+      <g
+         style="stroke-width:0.81514955"
+         id="g7902"
+         transform="translate(127.58788,-0.38448252)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect7904"
+           width="48.329407"
+           height="14.285714"
+           x="58.099167"
+           y="514.50488"
+           rx="4.2977524"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text7906"
+           y="524.14423"
+           x="82.484917"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan7908"
+             y="524.14423"
+             x="82.484917"
+             sodipodi:role="line">cloud</tspan></text>
+      </g>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       id="g7910"
+       transform="matrix(1.2267665,0,0,1.226771,496.58405,-426.87833)">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect7912"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g7914">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect7916"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text7918"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan7920"
+             style="font-weight:normal;stroke-width:0.81514955">Room 5</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path7922"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         id="g7924"
+         transform="translate(127.5)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect7926"
+           width="41.005802"
+           height="14.285714"
+           x="65.422768"
+           y="514.50488"
+           rx="4.2977524"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text7928"
+           y="524.14423"
+           x="86.272987"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan7930"
+             y="524.14423"
+             x="86.272987"
+             sodipodi:role="line">other</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text7932"
+         y="496.74231"
+         x="140.75655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           style="font-weight:normal;stroke-width:0.81514955"
+           y="496.74231"
+           x="140.75655"
+           sodipodi:role="line"
+           id="tspan7934">Open Source asset management with Fedora</tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           y="506.75034"
+           x="140.75655"
+           sodipodi:role="line"
+           id="tspan7936">with Marianne Lombard</tspan></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,-0.03263287,-244.10538)"
+       id="g7948">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect7950"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g7952">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect7954"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text7956"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan7958"
+             style="font-weight:normal;stroke-width:0.81514955">Main Room</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path7960"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         id="g7962"
+         transform="translate(127.5)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect7964"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text7966"
+           y="524.14423"
+           x="79.20192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan7968"
+             y="524.14423"
+             x="79.20192"
+             sodipodi:role="line">infrastructure</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="142.09848"
+         y="496.74231"
+         id="text7970"
+         sodipodi:linespacing="110%"><tspan
+           id="tspan7972"
+           sodipodi:role="line"
+           x="142.09848"
+           y="496.74231"
+           style="font-weight:normal;stroke-width:0.81514955">Next-generation Fedora release tooling</tspan><tspan
+           id="tspan7974"
+           sodipodi:role="line"
+           x="142.09848"
+           y="506.75034"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955">with Adam Miller</tspan><tspan
+           sodipodi:role="line"
+           x="142.09848"
+           y="516.75836"
+           id="tspan7976"
+           style="font-weight:bold;stroke-width:0.81514955" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,248.46489,-244.10538)"
+       id="g7978">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect7980"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g7982">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect7984"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text7986"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan7988"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Room 1</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path7990"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.5)"
+         id="g7992">
+        <rect
+           ry="5"
+           rx="4.2977524"
+           y="514.50488"
+           x="58.099167"
+           height="14.285714"
+           width="48.329407"
+           id="rect7994"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="82.484917"
+           y="524.14423"
+           id="text7996"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="82.484917"
+             y="524.14423"
+             id="tspan7998"
+             style="font-weight:normal;stroke-width:0.81514955">games</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="140.75655"
+         y="496.74231"
+         id="text8000"
+         sodipodi:linespacing="110%"><tspan
+           id="tspan8002"
+           sodipodi:role="line"
+           x="140.75655"
+           y="496.74231"
+           style="font-weight:normal;stroke-width:0.81514955">Rise of the Fedora Destop: games on Fedora</tspan><tspan
+           id="tspan8004"
+           sodipodi:role="line"
+           x="140.75655"
+           y="506.75034"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955">with Gergely Rákosi</tspan></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,496.58405,-244.2989)"
+       id="g8006">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect8008"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8010">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8012"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text8014"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan8016"
+             style="font-weight:normal;stroke-width:0.81514955">Room 2</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path8018"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         id="g8020"
+         transform="translate(127.5)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8022"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8024"
+           y="524.14423"
+           x="79.20192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8026"
+             y="524.14423"
+             x="79.20192"
+             sodipodi:role="line">ARM</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="139.24133"
+         y="496.74231"
+         id="text8028"
+         sodipodi:linespacing="110%"><tspan
+           id="tspan8030"
+           sodipodi:role="line"
+           x="139.24133"
+           y="496.74231"
+           style="font-weight:normal;stroke-width:0.81514955">Standardizing ARMv7 booting</tspan><tspan
+           sodipodi:role="line"
+           x="139.24133"
+           y="506.75034"
+           id="tspan8032"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955">with Dennis Gilmore</tspan></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,248.46489,-172.90186)"
+       id="g8034">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect8036"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8038">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8040"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text8042"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan8044"
+             style="font-weight:normal;stroke-width:0.81514955">Room 4</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path8046"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         id="g8048"
+         transform="translate(127.5)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8050"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8052"
+           y="524.14423"
+           x="79.20192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8054"
+             y="524.14423"
+             x="79.20192"
+             sodipodi:role="line">QA</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="139.24133"
+         y="496.74231"
+         id="text8056"
+         sodipodi:linespacing="110%"><tspan
+           sodipodi:role="line"
+           x="139.24133"
+           y="496.74231"
+           id="tspan8058"
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955">Mastering the art of open source testing</tspan><tspan
+           id="tspan8060"
+           sodipodi:role="line"
+           x="139.24133"
+           y="506.75034"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955">with Karthikeyan Palaniswamy</tspan><tspan
+           sodipodi:role="line"
+           x="139.24133"
+           y="516.75836"
+           id="tspan8062"
+           style="font-weight:bold;stroke-width:0.81514955" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,-0.03263287,-102.86702)"
+       id="g8064">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect8066"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8068">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8070"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text8072"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan8074"
+             style="font-weight:normal;stroke-width:0.81514955">Room 6</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path8076"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         id="g8078"
+         transform="translate(127.5)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8080"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8082"
+           y="524.14423"
+           x="79.20192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8084"
+             y="524.14423"
+             x="79.20192"
+             sodipodi:role="line">cloud</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="139.24133"
+         y="496.74231"
+         id="text8086"
+         sodipodi:linespacing="110%"><tspan
+           sodipodi:role="line"
+           x="139.24133"
+           y="496.74231"
+           id="tspan8088"
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955">All you could ever want to know about clouds</tspan><tspan
+           id="tspan8090"
+           sodipodi:role="line"
+           x="139.24133"
+           y="506.75034"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"> with Foggy Stratus</tspan><tspan
+           sodipodi:role="line"
+           x="139.24133"
+           y="516.75836"
+           id="tspan8092"
+           style="font-weight:bold;stroke-width:0.81514955" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,-0.03263287,-172.87033)"
+       id="g8094">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect8096"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8098">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8100"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8102"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8104"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Room 3</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path8106"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="140.75655"
+         y="496.74231"
+         id="text8108"
+         sodipodi:linespacing="110%"><tspan
+           id="tspan8110"
+           sodipodi:role="line"
+           x="141.77832"
+           y="496.74231"
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955">Atomic and container deployment </tspan><tspan
+           id="tspan8112"
+           sodipodi:role="line"
+           x="140.75655"
+           y="506.75034"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"><tspan
+   style="font-style:normal;font-weight:normal;stroke-width:0.81514955"
+   id="tspan8492">best practices </tspan>with Mike McGrath</tspan></text>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.58788,-0.38448252)"
+         id="g8114">
+        <rect
+           ry="5"
+           rx="4.2977524"
+           y="514.50488"
+           x="58.099167"
+           height="14.285714"
+           width="48.329407"
+           id="rect8116"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="82.484917"
+           y="524.14423"
+           id="text8118"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="82.484917"
+             y="524.14423"
+             id="tspan8120"
+             style="font-weight:normal;stroke-width:0.81514955">cloud</tspan></text>
+      </g>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,496.58405,-172.90186)"
+       id="g8122">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect8124"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8126">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8128"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8130"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8132"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Room 5</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path8134"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.5)"
+         id="g8136">
+        <rect
+           ry="5"
+           rx="4.2977524"
+           y="514.50488"
+           x="65.422768"
+           height="14.285714"
+           width="41.005802"
+           id="rect8138"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="86.272987"
+           y="524.14423"
+           id="text8140"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="86.272987"
+             y="524.14423"
+             id="tspan8142"
+             style="font-weight:normal;stroke-width:0.81514955">marketing</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="140.75655"
+         y="496.74231"
+         id="text8144"
+         sodipodi:linespacing="110%"><tspan
+           id="tspan8146"
+           sodipodi:role="line"
+           x="140.75655"
+           y="496.74231"
+           style="font-weight:normal;stroke-width:0.81514955">Fedora Magazine</tspan><tspan
+           id="tspan8148"
+           sodipodi:role="line"
+           x="140.75655"
+           y="506.75034"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955">with Chris Roberts</tspan></text>
+    </g>
+    <flowRoot
+       transform="translate(0,399.08715)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.37475586px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="flowRoot56097"
+       xml:space="preserve"><flowRegion
+         id="flowRegion56099"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.37475586px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.37475586px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           y="168.8472"
+           x="53.212379"
+           height="646.51685"
+           width="459.06433"
+           id="rect56101" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.37475586px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowPara56103">Thursday Talks - Session Five - 3:30 p.m.</flowPara></flowRoot>    <flowRoot
+       transform="translate(0,322.31556)"
+       xml:space="preserve"
+       id="flowRoot56105"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.07075119px;line-height:135.00000238%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><flowRegion
+         id="flowRegion56107"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
+           id="rect56109"
+           width="496.84042"
+           height="876.13269"
+           x="51.800705"
+           y="435.10287"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:135.00000238%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:justify;text-anchor:start;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara56111"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.33333397px;line-height:135.00000238%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:justify;text-anchor:start;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Thursday Talks - Session Six - 4:30 p.m.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5956"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.25092697px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0.54096013"
+       transform="translate(337.24596,1016.8496)"><flowRegion
+         style="stroke-width:0.54096013"
+         id="flowRegion5958"><rect
+           id="rect5960"
+           width="338.42545"
+           height="35.028419"
+           x="-92.880592"
+           y="-4.8250685"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.25092697px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;text-anchor:middle;fill:#767676;fill-opacity:1;stroke-width:0.54096013" /></flowRegion><flowPara
+         id="flowPara5962"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';stroke-width:0.54096013">mypagenumber</flowPara></flowRoot>    <g
+       style="stroke-width:0.81514955"
+       id="g8158"
+       transform="matrix(1.2267665,0,0,1.226771,0.97751966,6.6429706)">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect8160"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8162">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8164"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8166"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8168"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Main Room</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path8170"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.5)"
+         id="g8172">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8174"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="79.20192"
+           y="524.14423"
+           id="text8176"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="79.20192"
+             y="524.14423"
+             id="tspan8178"
+             style="font-weight:normal;stroke-width:0.81514955">desktop</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text8180"
+         y="496.74231"
+         x="142.09848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           style="font-weight:normal;stroke-width:0.81514955"
+           y="496.74231"
+           x="142.09848"
+           sodipodi:role="line"
+           id="tspan8182">Sandboxed desktop applications</tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           y="506.75034"
+           x="142.09848"
+           sodipodi:role="line"
+           id="tspan8184">with Matthias Clasen</tspan><tspan
+           style="font-weight:bold;stroke-width:0.81514955"
+           id="tspan8186"
+           y="516.75836"
+           x="142.09848"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       id="g8188"
+       transform="matrix(1.2267665,0,0,1.226771,247.45474,6.6429706)">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect8190"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8192">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8194"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text8196"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan8198"
+             style="font-weight:normal;stroke-width:0.81514955">Room 1</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path8200"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         id="g8202"
+         transform="translate(127.5)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8204"
+           width="48.329407"
+           height="14.285714"
+           x="58.099167"
+           y="514.50488"
+           rx="4.2977524"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8206"
+           y="524.14423"
+           x="82.484917"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8208"
+             y="524.14423"
+             x="82.484917"
+             sodipodi:role="line">ambassadors</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text8210"
+         y="496.74231"
+         x="140.75655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           style="font-weight:normal;stroke-width:0.81514955"
+           y="496.74231"
+           x="140.75655"
+           sodipodi:role="line"
+           id="tspan8212">Fedora Swag</tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           y="506.75034"
+           x="140.75655"
+           sodipodi:role="line"
+           id="tspan8214">with Jiri Eischmann</tspan></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       id="g8216"
+       transform="matrix(1.2267665,0,0,1.226771,493.93196,7.1165806)">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect8218"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8220">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8222"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8224"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8226"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Room 2</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path8228"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.5)"
+         id="g8230">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8232"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="79.20192"
+           y="524.14423"
+           id="text8234"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="79.20192"
+             y="524.14423"
+             id="tspan8236"
+             style="font-weight:normal;stroke-width:0.81514955">hardware</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text8238"
+         y="496.74231"
+         x="139.24133"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           style="font-weight:normal;stroke-width:0.81514955"
+           y="496.74231"
+           x="139.24133"
+           sodipodi:role="line"
+           id="tspan8240">Icaro: educational robotics in LATAM</tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           id="tspan8242"
+           y="506.75034"
+           x="139.24133"
+           sodipodi:role="line">with Neville A. Cross</tspan></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       id="g8244"
+       transform="matrix(1.2267665,0,0,1.226771,248.46489,79.208101)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect8246"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8248">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8250"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8252"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8254"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Room 4</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path8256"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.5)"
+         id="g8258">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8260"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="79.20192"
+           y="524.14423"
+           id="text8262"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="79.20192"
+             y="524.14423"
+             id="tspan8264"
+             style="font-weight:normal;stroke-width:0.81514955">other</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text8266"
+         y="496.74231"
+         x="142.09848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955"
+           id="tspan8268"
+           y="496.74231"
+           x="142.09848"
+           sodipodi:role="line">Refinance your technical debt with microservices</tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           y="506.75034"
+           x="142.09848"
+           sodipodi:role="line"
+           id="tspan8270">with Ralph Bean</tspan><tspan
+           style="font-weight:bold;stroke-width:0.81514955"
+           id="tspan8272"
+           y="516.75836"
+           x="142.09848"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       id="g8274"
+       transform="matrix(1.2267665,0,0,1.226771,496.58405,79.208101)">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect8276"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8278">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8280"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8282"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8284"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Room 6</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path8286"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.5)"
+         id="g8288">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8290"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="79.20192"
+           y="524.14423"
+           id="text8292"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="79.20192"
+             y="524.14423"
+             id="tspan8294"
+             style="font-weight:normal;stroke-width:0.81514955">games</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text8296"
+         y="496.74231"
+         x="139.24133"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955"
+           id="tspan8298"
+           y="496.74231"
+           x="139.24133"
+           sodipodi:role="line">Goat Racing</tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           y="506.75034"
+           x="139.24133"
+           sodipodi:role="line"
+           id="tspan8300"> with Capra Aegagrus</tspan><tspan
+           style="font-weight:bold;stroke-width:0.81514955"
+           id="tspan8302"
+           y="516.75836"
+           x="139.24133"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       id="g8304"
+       transform="matrix(1.2267665,0,0,1.226771,0.59915089,79.208101)">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect8306"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8308">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8310"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text8312"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan8314"
+             style="font-weight:normal;stroke-width:0.81514955">Room 3</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path8316"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <text
+         sodipodi:linespacing="110%"
+         id="text8318"
+         y="496.74231"
+         x="140.75655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         xml:space="preserve"><tspan
+           id="tspan8502"
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955"
+           y="496.74231"
+           x="141.77832"
+           sodipodi:role="line">Building working software: An introduction </tspan><tspan
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
+           y="506.75034"
+           x="140.75655"
+           sodipodi:role="line"
+           id="tspan8322"><tspan
+   style="font-style:normal;font-weight:normal;stroke-width:0.81514955"
+   id="tspan8514">to formal verification </tspan>with Ricky Elrod</tspan></text>
+      <g
+         style="stroke-width:0.81514955"
+         id="g8324"
+         transform="translate(127.58788,-0.38448252)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8326"
+           width="48.329407"
+           height="14.285714"
+           x="58.099167"
+           y="514.50488"
+           rx="4.2977524"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8328"
+           y="524.14423"
+           x="82.484917"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8330"
+             y="524.14423"
+             x="82.484917"
+             sodipodi:role="line">other</tspan></text>
+      </g>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,-0.03263287,195.31098)"
+       id="g8833">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect8835"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8837">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8839"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text8841"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan8843"
+             style="font-weight:normal;stroke-width:0.81514955">Main Room</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path8845"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         id="g8847"
+         transform="translate(127.5)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8849"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8851"
+           y="524.14423"
+           x="79.20192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8853"
+             y="524.14423"
+             x="79.20192"
+             sodipodi:role="line">community</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="142.09848"
+         y="496.74231"
+         id="text8855"
+         sodipodi:linespacing="110%"><tspan
+           id="tspan8857"
+           sodipodi:role="line"
+           x="142.09848"
+           y="496.74231"
+           style="font-weight:normal;stroke-width:0.81514955">Meet your FESCo</tspan><tspan
+           id="tspan8859"
+           sodipodi:role="line"
+           x="142.09848"
+           y="506.75034"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955">with Josh Boyer</tspan><tspan
+           sodipodi:role="line"
+           x="142.09848"
+           y="516.75836"
+           id="tspan8861"
+           style="font-weight:bold;stroke-width:0.81514955" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,248.46489,195.31098)"
+       id="g8863">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect8865"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8867">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8869"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8871"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8873"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Room 1</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path8875"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.5)"
+         id="g8877">
+        <rect
+           ry="5"
+           rx="4.2977524"
+           y="514.50488"
+           x="58.099167"
+           height="14.285714"
+           width="48.329407"
+           id="rect8879"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="82.484917"
+           y="524.14423"
+           id="text8881"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="82.484917"
+             y="524.14423"
+             id="tspan8883"
+             style="font-weight:normal;stroke-width:0.81514955">other</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="140.75655"
+         y="496.74231"
+         id="text8885"
+         sodipodi:linespacing="110%"><tspan
+           id="tspan8887"
+           sodipodi:role="line"
+           x="140.75655"
+           y="496.74231"
+           style="font-weight:normal;stroke-width:0.81514955">Lightning Talks</tspan><tspan
+           id="tspan8889"
+           sodipodi:role="line"
+           x="140.75655"
+           y="506.75034"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,496.58405,195.11746)"
+       id="g8891">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect8893"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8895">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8897"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text8899"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan8901"
+             style="font-weight:normal;stroke-width:0.81514955">Room 2</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path8903"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         id="g8905"
+         transform="translate(127.5)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8907"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8909"
+           y="524.14423"
+           x="79.20192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8911"
+             y="524.14423"
+             x="79.20192"
+             sodipodi:role="line">hardware</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="139.24133"
+         y="496.74231"
+         id="text8913"
+         sodipodi:linespacing="110%"><tspan
+           id="tspan8915"
+           sodipodi:role="line"
+           x="139.24133"
+           y="496.74231"
+           style="font-weight:normal;stroke-width:0.81514955">Using Fedora as a Base for the IoT revolution</tspan><tspan
+           sodipodi:role="line"
+           x="139.24133"
+           y="506.75034"
+           id="tspan8917"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955">with Peter Robinson</tspan></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,248.46489,266.5145)"
+       id="g8919">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect8921"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8923">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8925"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text8927"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan8929"
+             style="font-weight:normal;stroke-width:0.81514955">Room 4</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path8931"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         id="g8933"
+         transform="translate(127.5)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8935"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8937"
+           y="524.14423"
+           x="79.20192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8939"
+             y="524.14423"
+             x="79.20192"
+             sodipodi:role="line">other</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="142.09848"
+         y="496.74231"
+         id="text8941"
+         sodipodi:linespacing="110%"><tspan
+           sodipodi:role="line"
+           x="142.09848"
+           y="496.74231"
+           id="tspan8943"
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955">Customizing Anaconda for Fun &amp; Profit</tspan><tspan
+           id="tspan8945"
+           sodipodi:role="line"
+           x="142.09848"
+           y="506.75034"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955">with Arun S A G</tspan><tspan
+           sodipodi:role="line"
+           x="142.09848"
+           y="516.75836"
+           id="tspan8947"
+           style="font-weight:bold;stroke-width:0.81514955" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,-0.03263287,336.54934)"
+       id="g8949">
+      <rect
+         y="483.79059"
+         x="45.815811"
+         height="49.057289"
+         width="194.18417"
+         id="rect8951"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8953">
+        <rect
+           ry="5"
+           rx="4.2977529"
+           y="514.50488"
+           x="51.785713"
+           height="14.285714"
+           width="54.64286"
+           id="rect8955"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="83.84478"
+           y="524.14423"
+           id="text8957"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="83.84478"
+             y="524.14423"
+             id="tspan8959"
+             style="font-weight:normal;stroke-width:0.81514955">Room 6</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path8961"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         id="g8963"
+         transform="translate(127.5)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8965"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8967"
+           y="524.14423"
+           x="79.20192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8969"
+             y="524.14423"
+             x="79.20192"
+             sodipodi:role="line">other</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="139.24133"
+         y="496.74231"
+         id="text8971"
+         sodipodi:linespacing="110%"><tspan
+           id="tspan5352"
+           sodipodi:role="line"
+           x="139.24133"
+           y="496.74231"
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955">Forty-five minutes of the Harlem Shake</tspan><tspan
+           id="tspan8975"
+           sodipodi:role="line"
+           x="139.24133"
+           y="506.75034"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955"> with Ima Chocobo</tspan><tspan
+           sodipodi:role="line"
+           x="139.24133"
+           y="516.75836"
+           id="tspan8977"
+           style="font-weight:bold;stroke-width:0.81514955" /></text>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,-0.03263287,266.54603)"
+       id="g8979">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect8981"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g8983">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8985"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8987"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8989"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Room 3</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path8991"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="140.75655"
+         y="496.74231"
+         id="text8993"
+         sodipodi:linespacing="110%"><tspan
+           sodipodi:role="line"
+           x="140.75655"
+           y="496.74231"
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955"
+           id="tspan8995">Test Cloud: running your cloud locally</tspan><tspan
+           id="tspan8997"
+           sodipodi:role="line"
+           x="140.75655"
+           y="506.75034"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955">with Mike Ruckman</tspan></text>
+      <g
+         style="stroke-width:0.81514955"
+         transform="translate(127.58788,-0.38448252)"
+         id="g9001">
+        <rect
+           ry="5"
+           rx="4.2977524"
+           y="514.50488"
+           x="58.099167"
+           height="14.285714"
+           width="48.329407"
+           id="rect9003"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           x="82.484917"
+           y="524.14423"
+           id="text9005"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             x="82.484917"
+             y="524.14423"
+             id="tspan9007"
+             style="font-weight:normal;stroke-width:0.81514955">cloud</tspan></text>
+      </g>
+    </g>
+    <g
+       style="stroke-width:0.81514955"
+       transform="matrix(1.2267665,0,0,1.226771,496.58405,266.5145)"
+       id="g9009">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.81514955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect9011"
+         width="194.18417"
+         height="49.057289"
+         x="45.815811"
+         y="483.79059" />
+      <g
+         style="stroke-width:0.81514955"
+         id="g9013">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect9015"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text9017"
+           y="524.14423"
+           x="83.84478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan9019"
+             y="524.14423"
+             x="83.84478"
+             sodipodi:role="line">Room 5</tspan></text>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           d="m 60.149846,518.10721 -3.581456,2.66482 1.008048,0 0,4.62313 1.640548,0 0,-2.25171 1.865722,0 0,2.25171 1.640548,0 0,-4.62313 1.008046,0 -3.581456,-2.66482 z"
+           id="path9021"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="stroke-width:0.81514955"
+         id="g8933-1"
+         transform="translate(127.35484,0.17056909)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.31251812;marker:none;enable-background:accumulate"
+           id="rect8935-1"
+           width="54.64286"
+           height="14.285714"
+           x="51.785713"
+           y="514.50488"
+           rx="4.2977529"
+           ry="5" />
+        <text
+           sodipodi:linespacing="110%"
+           id="text8937-4"
+           y="524.14423"
+           x="79.20192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94763422px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;stroke-width:0.81514955"
+             id="tspan8939-0"
+             y="524.14423"
+             x="79.20192"
+             sodipodi:role="line">marketing</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0982008px;line-height:110.00000238%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81514955"
+         x="141.95332"
+         y="496.91293"
+         id="text8941-6"
+         sodipodi:linespacing="110%"><tspan
+           sodipodi:role="line"
+           x="141.95332"
+           y="496.91293"
+           id="tspan8943-9"
+           style="font-style:normal;font-weight:normal;stroke-width:0.81514955">Marketing is not a spectator sport</tspan><tspan
+           id="tspan8945-7"
+           sodipodi:role="line"
+           x="141.95332"
+           y="506.92096"
+           style="font-style:italic;font-weight:normal;stroke-width:0.81514955">with Joe Brockmeier</tspan><tspan
+           sodipodi:role="line"
+           x="141.95332"
+           y="516.92896"
+           id="tspan8947-1"
+           style="font-weight:bold;stroke-width:0.81514955" /></text>
+    </g>
+  </g>
+</svg>

@@ -9,12 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="495"
-   height="765"
+   width="8.625in"
+   height="11.25in"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12417"
-   sodipodi:docname="notes.svg">
+   inkscape:version="0.91+devel r13964"
+   sodipodi:docname="notes.svg"
+   viewBox="0 0 828 1080">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -29,6 +30,22 @@
        is_visible="true"
        id="path-effect25882-3-5-0"
        effect="spiro" />
+    <clipPath
+       id="clipPath13629"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path13631"
+         d="M 0,0 621,0 621,810 0,810 0,0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath13743"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path13745"
+         d="m 0,0 371.25,0 0,573.75 L 0,573.75 0,0 Z" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -37,9 +54,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-547.28159"
-     inkscape:cy="32.760848"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="440.91291"
+     inkscape:cy="479.21943"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,29 +67,45 @@
      inkscape:bbox-nodes="true"
      inkscape:object-paths="true"
      inkscape:snap-page="true"
-     inkscape:snap-global="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1174"
+     inkscape:snap-global="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1311"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="55"
      inkscape:window-maximized="1"
      showguides="true">
     <sodipodi:guide
-       position="45,720"
-       orientation="675,0"
-       id="guide4034" />
+       position="6,1068"
+       orientation="1056.0001,0"
+       id="guide4176" />
     <sodipodi:guide
-       position="45,45"
-       orientation="0,405"
-       id="guide4036" />
+       position="6,11.999939"
+       orientation="0,816"
+       id="guide4178" />
     <sodipodi:guide
-       position="450,45"
-       orientation="-675,0"
-       id="guide4038" />
+       position="822,11.999939"
+       orientation="-1056.0001,0"
+       id="guide4180" />
     <sodipodi:guide
-       position="450,720"
-       orientation="0,-405"
-       id="guide4040" />
+       position="822,1068"
+       orientation="0,-816"
+       id="guide4182" />
+    <sodipodi:guide
+       position="30,1044"
+       orientation="1008,0"
+       id="guide4184" />
+    <sodipodi:guide
+       position="30,36"
+       orientation="0,768"
+       id="guide4186" />
+    <sodipodi:guide
+       position="798,36"
+       orientation="-1008,0"
+       id="guide4188" />
+    <sodipodi:guide
+       position="798,1044"
+       orientation="0,-768"
+       id="guide4190" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -90,26 +123,23 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-287.362)">
+     transform="translate(0,27.638)">
     <text
        sodipodi:linespacing="125%"
        id="text5096"
        y="660.9541"
        x="235.64728"
-       style="font-size:12.2948246px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.70400002;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2948246px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;opacity:0.70400002;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:12.2948246px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold'"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.2948246px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
          y="660.9541"
          x="235.64728"
          id="tspan5098"
          sodipodi:role="line" /></text>
-    <g
-       id="g5229"
-       transform="translate(-20.370656,-5.6040696)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5296"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Cantarell;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Cantarell;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion5298"><rect
            id="rect5300"
            width="405"
@@ -118,15 +148,15 @@
            y="45" /></flowRegion><flowPara
          id="flowPara5302" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#294172;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="195.36046"
-       y="371.69321"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.09597588px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#294172;fill-opacity:1;stroke:none;stroke-width:0.62739938"
+       x="374.81683"
+       y="48.933891"
        id="text5370"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5372"
-         x="195.36046"
-         y="371.69321"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#294172;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold">Notes</tspan></text>
+         x="374.81683"
+         y="48.933891"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#294172;stroke-width:0.62739938">Notes</tspan></text>
   </g>
 </svg>
