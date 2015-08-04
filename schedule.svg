@@ -14,7 +14,7 @@
    viewBox="0 0 210 297"
    id="svg5067"
    version="1.1"
-   inkscape:version="0.91+devel r13964"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="schedule.svg">
   <defs
      id="defs5069" />
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="-461.77719"
-     inkscape:cy="-20.242647"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-545.29952"
+     inkscape:cy="1216.7944"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g8029"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1311"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -512,7 +512,7 @@
              id="tspan8055"
              style="font-style:italic;font-weight:normal;stroke-width:0.81514955"><tspan
    style="font-style:normal;font-weight:normal;stroke-width:0.81514955"
-   id="tspan4472">amniotic vertibrate </tspan>with Anna Conda</tspan><tspan
+   id="tspan4472">amniotic vertebrate </tspan>with Anna Conda</tspan><tspan
              sodipodi:role="line"
              x="139.24133"
              y="516.75836"
@@ -1960,7 +1960,7 @@
              y="496.74231"
              x="140.75655"
              sodipodi:role="line"
-             id="tspan6350">Remode desktop &amp; Fedora</tspan><tspan
+             id="tspan6350">Remote desktop &amp; Fedora</tspan><tspan
              style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
              y="506.75034"
              x="140.75655"
@@ -4458,7 +4458,7 @@
              y="506.75034"
              x="140.75655"
              sodipodi:role="line"
-             id="tspan7495">with Máirín Duffy</tspan></text>
+             id="tspan7495">with Máirín Duffy and Meghan Richardson</tspan></text>
       </g>
     </g>
     <g
