@@ -13,7 +13,7 @@
    height="11.25in"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13964"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="sched4.svg"
    viewBox="0 0 828 1080">
   <defs
@@ -54,11 +54,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="-68.227788"
-     inkscape:cy="518.56842"
+     inkscape:zoom="2.8"
+     inkscape:cx="441.39232"
+     inkscape:cy="930.42303"
      inkscape:document-units="px"
-     inkscape:current-layer="g52321"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      width="5.5in"
@@ -115,7 +115,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -199,7 +199,7 @@
          style="font-size:16px;line-height:110.00000238%;text-align:justify;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="flowPara52660"><flowSpan
    style="font-weight:bold"
-   id="flowSpan52666">Be an inspiration, not an impostor:</flowSpan> The free flow of new ideas ignites the open source world every day. Communities accomplish amazing things when people with unique voices and viewpoints share their ideas and inspire others. However, impostor syndrome -- the inability to recognize your competence -- can slow the flow of new ideas and stifle the progress of open source communities. Many technical people feel they lack the expertise to contribute or they carry a fear of being wrong. These members of the community have valuable ideas and insight that can make open source projects stronger. In this talk, Major Hayden will lead the audience through a discussion of impostor syndrome and its effects on individuals and their communities. Attendees will learn how to overcome their own intimidation through confidence and discipline while also learning how to inspire others to do the same. </flowPara></flowRoot>    <g
+   id="flowSpan52666">Be an inspiration, not an impostor:</flowSpan> The free flow of new ideas ignites the open source world every day. Communities accomplish amazing things when people with unique voices and viewpoints share their ideas and inspire others. However, impostor syndrome — the inability to recognize your competence — can slow the flow of new ideas and stifle the progress of open source communities. Many technical people feel they lack the expertise to contribute or they carry a fear of being wrong. These members of the community have valuable ideas and insight that can make open source projects stronger. In this talk, Major Hayden will lead the audience through a discussion of impostor syndrome and its effects on individuals and their communities. Attendees will learn how to overcome their own intimidation through confidence and discipline while also learning how to inspire others to do the same. </flowPara></flowRoot>    <g
        id="g52321">
       <flowRoot
          transform="translate(0,147.14286)"
@@ -894,7 +894,7 @@
              sodipodi:role="line"
              x="140.75655"
              y="506.75034"
-             style="font-style:italic;font-weight:normal;stroke-width:0.81514955">with Máirín Duffy</tspan></text>
+             style="font-style:italic;font-weight:normal;stroke-width:0.81514955">with Máirín Duffy &amp; Meghan Richardson</tspan></text>
       </g>
       <g
          style="stroke-width:0.81514955"
@@ -1402,7 +1402,7 @@
              y="496.74231"
              x="140.75655"
              sodipodi:role="line"
-             id="tspan7679">the Atomic Architecture</tspan><tspan
+             id="tspan7679">The Atomic Architecture</tspan><tspan
              style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
              y="506.75034"
              x="140.75655"
