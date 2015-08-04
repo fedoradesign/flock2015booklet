@@ -14,43 +14,34 @@ $ph=810
  
 # Plate 1
 $plate=1
-20; $plate; 0; 0; 0;
+16; $plate; 0; 0; 0;
 1; $plate; 0; $pw/2.0; 0);
 
 $plate=2
 2; $plate; 0; 0; 0;
-19; $plate; 0; $pw/2.0; 0);
+15; $plate; 0; $pw/2.0; 0);
 
 $plate=3
-18; $plate; 0; 0; 0;
+14; $plate; 0; 0; 0;
 3; $plate; 0; $pw/2.0; 0);
 
 $plate=4
 4; $plate; 0; 0; 0;
-17; $plate; 0; $pw/2.0; 0);
+13; $plate; 0; $pw/2.0; 0);
 
 $plate=5
-16; $plate; 0; 0; 0;
+12; $plate; 0; 0; 0;
 5; $plate; 0; $pw/2.0; 0);
 
 $plate=6
 6; $plate; 0; 0; 0;
-15; $plate; 0; $pw/2.0; 0);
+11; $plate; 0; $pw/2.0; 0);
 
 $plate=7
-14; $plate; 0; 0; 0;
+10; $plate; 0; 0; 0;
 7; $plate; 0; $pw/2.0; 0);
 
 $plate=8
 8; $plate; 0; 0; 0;
-13; $plate; 0; $pw/2.0; 0);
-
-$plate=9
-12; $plate; 0; 0; 0;
 9; $plate; 0; $pw/2.0; 0);
-
-$plate=10
-10; $plate; 0; 0; 0;
-11; $plate; 0; $pw/2.0; 0);
-
 
