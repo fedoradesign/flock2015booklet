@@ -13,7 +13,7 @@
    height="11.25in"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13964"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="sched6.svg"
    viewBox="0 0 828 1080">
   <defs
@@ -55,8 +55,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="113.90403"
-     inkscape:cy="327.90856"
+     inkscape:cx="-274.6674"
+     inkscape:cy="325.05142"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -115,7 +115,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -197,7 +197,7 @@
            width="716.2793"
            id="rect7007" /></flowRegion><flowPara
          style="font-size:16px;line-height:110.00000238%;text-align:justify;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="flowPara52660">Jon Schull from e-Nable explains how open source prosthetics are improving lives all over the world</flowPara></flowRoot>    <flowRoot
+         id="flowPara52660">Jon Schull from e-Nable explains how open source prosthetics are improving lives all over the world.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7578"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.37475586px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
