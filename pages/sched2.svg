@@ -13,7 +13,7 @@
    height="11.25in"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13964"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="sched2.svg"
    viewBox="0 0 828 1080">
   <defs
@@ -54,11 +54,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="-432.80847"
-     inkscape:cy="535.6496"
+     inkscape:zoom="1.979899"
+     inkscape:cx="272.84312"
+     inkscape:cy="216.29714"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6326"
      showgrid="false"
      units="in"
      width="5.5in"
@@ -115,7 +115,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -652,7 +652,7 @@
            x="139.24133"
            sodipodi:role="line"><tspan
    id="tspan4472"
-   style="font-style:normal;font-weight:normal;stroke-width:0.81514955">amniotic vertibrate </tspan>with Anna Conda</tspan><tspan
+   style="font-style:normal;font-weight:normal;stroke-width:0.81514955">amniotic vertebrate </tspan>with Anna Conda</tspan><tspan
            style="font-weight:bold;stroke-width:0.81514955"
            id="tspan8059"
            y="516.75836"
@@ -2093,7 +2093,7 @@
              y="496.74231"
              x="140.75655"
              sodipodi:role="line"
-             id="tspan6350">Remode desktop &amp; Fedora</tspan><tspan
+             id="tspan6350">Remote desktop &amp; Fedora</tspan><tspan
              style="font-style:italic;font-weight:normal;stroke-width:0.81514955"
              y="506.75034"
              x="140.75655"
