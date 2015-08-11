@@ -13,7 +13,7 @@
    height="765"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12417"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="eveningevents.svg">
   <defs
      id="defs4">
@@ -37,9 +37,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="-22.200431"
-     inkscape:cy="339.28535"
+     inkscape:zoom="1.4"
+     inkscape:cx="120.65671"
+     inkscape:cy="329.6889"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,13 +50,14 @@
      inkscape:bbox-nodes="true"
      inkscape:object-paths="true"
      inkscape:snap-page="true"
-     inkscape:snap-global="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1174"
+     inkscape:snap-global="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1392"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true">
+     showguides="true"
+     inkscape:guide-bbox="true">
     <sodipodi:guide
        position="45,720"
        orientation="675,0"
@@ -73,6 +74,10 @@
        position="450,720"
        orientation="0,-405"
        id="guide4040" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-650,36"
+       id="guide3030" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -82,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -258,14 +263,14 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5956"
-       style="font-size:35.58659363px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#767676;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold;color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;clip-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       transform="matrix(0.84301413,0,0,0.84301413,558.16797,619.80561)"><flowRegion
+       style="font-size:35.58659363px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#767676;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold"
+       transform="matrix(0.84301413,0,0,0.84301413,558.16797,607.94503)"><flowRegion
          id="flowRegion5958"><rect
            id="rect5960"
            width="586.34882"
            height="113.07397"
            x="-661.38733"
            y="448.35461"
-           style="font-size:35.58659363px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#767676;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold;color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;clip-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" /></flowRegion><flowPara
+           style="font-size:35.58659363px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#767676;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold" /></flowRegion><flowPara
          id="flowPara5962">mypagenumber</flowPara></flowRoot>  </g>
 </svg>

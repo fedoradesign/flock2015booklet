@@ -13,7 +13,7 @@
    height="11.25in"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13964"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="sched3.svg"
    viewBox="0 0 828 1080">
   <defs
@@ -56,24 +56,24 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="7.4033216"
-     inkscape:cy="467.72117"
+     inkscape:cy="458.12472"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      width="5.5in"
-     inkscape:snap-bbox="true"
+     inkscape:snap-bbox="false"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:object-paths="true"
      inkscape:snap-page="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1311"
+     inkscape:window-height="1392"
      inkscape:window-x="0"
-     inkscape:window-y="55"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false">
+     showguides="true">
     <sodipodi:guide
        position="6,1068"
        orientation="1056.0001,0"
@@ -115,7 +115,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -161,17 +161,17 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5956"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.58659363px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#767676;fill-opacity:1;stroke:none"
-       transform="matrix(0.54096011,0,0,0.54096011,602.14908,769.48296)"><flowRegion
+       style="font-size:35.58659363px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#767676;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold"
+       transform="matrix(0.54096011,0,0,0.54096011,602.14908,752.23757)"><flowRegion
          id="flowRegion5958"><rect
            id="rect5960"
            width="625.6015"
            height="64.752312"
            x="-661.38733"
            y="448.35461"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.58659363px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;text-anchor:middle;fill:#767676;fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:35.58659363px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#767676;fill-opacity:1;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold" /></flowRegion><flowPara
          id="flowPara5962"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'">mypagenumber</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold">mypagenumber</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7578"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.37475586px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
